@@ -1,6 +1,10 @@
 This repo contains the materials I used along the way of learning cyber security.
 
 # Computer Network:
+## Textbook
+### [Computer Networking - A Top-down Approach by Kurose and Ross](https://www.pearson.com/us/higher-education/program/Kurose-Computer-Networking-A-Top-Down-Approach-7th-Edition/PGM1101673.html) (Highly Recommended)
+This is one of the most well-written textbook I have ever read. This textbook alone will prepare you necessary information on the networking side. The newest version is 7th edition but 6th edition would definitely work as well (You know what I mean). Simply read EVERY Chapter of the book. Don't worry. You will enjoy the book.
+
 ## Video
 * [CCNA Intro to Computer Network Series](https://www.youtube.com/watch?v=n2D1o-aM-2s&list=PLh94XVT4dq02frQRRZBHzvj2hwuhzSByN)
 
