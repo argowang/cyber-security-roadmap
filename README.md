@@ -2,10 +2,10 @@ This repo contains the materials I used along the way of learning cyber security
 
 # Computer Network:
 ## General Material
-### Book: [Computer Networking - A Top-down Approach by Kurose and Ross](https://www.pearson.com/us/higher-education/program/Kurose-Computer-Networking-A-Top-Down-Approach-7th-Edition/PGM1101673.html) (Highly Recommended)
+* Book: [Computer Networking - A Top-down Approach by Kurose and Ross](https://www.pearson.com/us/higher-education/program/Kurose-Computer-Networking-A-Top-Down-Approach-7th-Edition/PGM1101673.html) (Highly Recommended)
 This is one of the most well-written textbook I have ever read. This textbook alone will prepare you necessary information on the networking side. The newest version is 7th edition but 6th edition would definitely work as well (You know what I mean). Simply read EVERY Chapter of the book. Don't worry. You will enjoy the book.
 
-### Video Series: [CCNA Intro to Computer Network Series](https://www.youtube.com/watch?v=n2D1o-aM-2s&list=PLh94XVT4dq02frQRRZBHzvj2hwuhzSByN)
+* Video Series: [CCNA Intro to Computer Network Series](https://www.youtube.com/watch?v=n2D1o-aM-2s&list=PLh94XVT4dq02frQRRZBHzvj2hwuhzSByN)
 
 ## TLS
 * [A comprehensive overview of TLS](https://hpbn.co/transport-layer-security-tls/)
@@ -27,4 +27,4 @@ This article includes a list of documentation for iptables. It also provides a c
 
 ## PAM Modules
 * [PAM Module RedHat Documentation](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/managing_smart_cards/pluggable_authentication_modules)
-* [PAM Module in Action - MacOS Use TouchID to gain sudo priviledg](https://apple.stackexchange.com/questions/259093/can-touch-id-for-the-mac-touch-bar-authenticate-sudo-users-and-admin-privileges/306324#306324)
+* [PAM Module in Action - MacOS Use TouchID to gain sudo privilege](https://apple.stackexchange.com/questions/259093/can-touch-id-for-the-mac-touch-bar-authenticate-sudo-users-and-admin-privileges/306324#306324)
