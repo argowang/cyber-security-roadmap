@@ -25,6 +25,11 @@ This article explains the mutual TLS protocal in depth. The article includes the
 
 This article includes a list of documentation for iptables. It also provides a cheatsheet instructing how to use the iptables command on linux machine.
 
+## ebpf
+* [ebpf - making kernel programmable](https://ebpf.io/)
+
+ebpf is going to be the next big thing in the land of security. Its extensibility enables countless use cases. To name a few, network packet filtering/tracing with [Cilium](https://cilium.io/), syscall filtering and etc.
+
 ## PAM Modules
 * [PAM Module RedHat Documentation](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/managing_smart_cards/pluggable_authentication_modules)
 * [PAM Module in Action - MacOS Use TouchID to gain sudo privilege](https://apple.stackexchange.com/questions/259093/can-touch-id-for-the-mac-touch-bar-authenticate-sudo-users-and-admin-privileges/306324#306324)
